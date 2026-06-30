@@ -1,4 +1,4 @@
-# Pódio Copa 2026 — Previsão com Machine Learning
+# Pódio Copa 2026 - Previsão com Machine Learning
 
 Projeto de análise de dados e Machine Learning baseado nas estatísticas táticas da Copa do Mundo 2022, usado para projetar um potencial pódio para a Copa de 2026.
 

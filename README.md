@@ -34,6 +34,11 @@ Os dados de 64 partidas da Copa de 2022 foram limpos, transformados em estatíst
 | 6 | Argentina | 81.8% |
 | 7 | Brazil | 79.2% |
 
+
 ## Fonte dos dados
+
+Os dados utilizados neste projeto foram obtidos no Kaggle, com estatísticas detalhadas de todas as 64 partidas da Copa do Mundo FIFA 2022, incluindo posse de bola, finalizações, passes, cartões e outras métricas táticas por seleção.
+
+Arquivo original: `Fifa_world_cup_matches.csv`
 
 Estatísticas detalhadas de todas as partidas da Copa do Mundo FIFA 2022.

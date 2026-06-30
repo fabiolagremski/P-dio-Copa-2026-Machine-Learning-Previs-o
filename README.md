@@ -36,9 +36,8 @@ Os dados de 64 partidas da Copa de 2022 foram limpos, transformados em estatíst
 
 
 ## Fonte dos dados
-
 Os dados utilizados neste projeto foram obtidos no Kaggle, com estatísticas detalhadas de todas as 64 partidas da Copa do Mundo FIFA 2022, incluindo posse de bola, finalizações, passes, cartões e outras métricas táticas por seleção.
 
-Arquivo original: `Fifa_world_cup_matches.csv`
+Dataset: [FIFA World Cup 2022 Complete Dataset](https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset) — Kaggle
 
-Estatísticas detalhadas de todas as partidas da Copa do Mundo FIFA 2022.
+Arquivo original: `Fifa_world_cup_matches.csv`
